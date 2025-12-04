@@ -1,0 +1,49 @@
+
+
+.contCentral{
+ 
+height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F5F7FB;
+}
+
+.contCentral {
+  min-height: 100vh;
+  width: 100%;
+  background: linear-gradient(135deg, #e8faff, #f5f7fb, #e8fff5);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+
+/* ---------- TITULO MODERNO ---------- */
+.tituloModerno {
+  font-size: 3.8rem;
+  font-weight: 700;
+  color: #1f2937;
+  text-align: center;
+  letter-spacing: 0.5px;
+  margin-bottom: 10px;
+  background: linear-gradient(90deg, #0ea5e9, #10b981);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.subtituloModerno {
+  font-size: 2.2rem;
+  text-align: center;
+  color: #4b5563;
+  margin-bottom: 25px;
+}
+
+/* ---------- LOTTIE CON FONDO PERSONALIZADO ---------- */
+.lottieBg {
+  background-color: transparent;
+  border-radius: 0;
+  padding: 0;
+  box-shadow: none;
+}

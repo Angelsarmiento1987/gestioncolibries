@@ -1,0 +1,116 @@
+
+
+/* NAVBAR PRINCIPAL */
+.dashboard-navbar {
+  background: #202b38; /* gris azulado oscuro */
+  padding: 12px 20px;
+  border-bottom: 2px solid #1f6feb;
+}
+
+.dashboard-brand {
+  color: white !important;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  font-size: 20px;
+}
+
+/* LINKS DEL NAV */
+.dashboard-link {
+  color: #d0d7de !important;
+  font-weight: 500;
+  margin-right: 10px;
+  transition: 0.2s;
+}
+
+.dashboard-link:hover {
+  color: #58a6ff !important;
+}
+
+/* DROPDOWN */
+.dashboard-dropdown .dropdown-toggle {
+  color: #d0d7de !important;
+  font-weight: 500;
+}
+
+.dashboard-dropdown-item {
+  color: #24292f !important;
+  font-weight: 500;
+}
+
+.dashboard-dropdown-item:hover {
+  background: #e7f1ff;
+  color: #0d6efd !important;
+}
+
+/* OFFCANVAS */
+.dashboard-offcanvas {
+  background: #f4f6f8;
+}
+
+.dashboard-offcanvas-header {
+  background: #202b38;
+  color: white;
+}
+
+.dashboard-offcanvas-title {
+  color: white;
+  font-weight: 600;
+}
+
+.dashboard-offcanvas-body {
+  padding-top: 20px;
+}
+
+/* SEARCH */
+.dashboard-search-input {
+  border-radius: 8px;
+  border: 1px solid #9da5b4;
+}
+
+.dashboard-search-input:focus {
+  border-color: #0d6efd;
+  box-shadow: none;
+}
+
+.dashboard-search-btn {
+  border-radius: 8px;
+  padding: 6px 14px;
+  background: #1f6feb;
+  border: none;
+}
+
+.dashboard-search-btn:hover {
+  background: #388bfd;
+}
+
+/* HAMBURGUESA BLANCA */
+.navbar-toggler-icon {
+  filter: invert(1) brightness(200%);
+}
+
+/* Texto del menú en negro/gris oscuro */
+.navbar,
+.navbar a,
+.offcanvas,
+.offcanvas a,
+.nav-link,
+.navbar-brand,
+.navbar-nav .nav-link,
+.navbar-nav .dropdown-item {
+  color: #1a1a1a !important; /* gris oscuro casi negro */
+}
+
+/* Para que los links NO se vuelvan blancos al hacer hover */
+.nav-link:hover,
+.dropdown-item:hover {
+  color: #000 !important;
+}
+
+/* Solo el texto "Gestión Colibries" en blanco */
+.navbar-brand {
+  color: #ffffff !important;
+}
+
+.navbar .navbar-brand {
+  color: #ffffff !important;
+}
