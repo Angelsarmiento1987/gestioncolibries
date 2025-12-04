@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gestioncolibries/static/css/main.e31c52d0.css",
+    "main.js": "/gestioncolibries/static/js/main.6e184703.js",
+    "index.html": "/gestioncolibries/index.html",
+    "main.e31c52d0.css.map": "/gestioncolibries/static/css/main.e31c52d0.css.map",
+    "main.6e184703.js.map": "/gestioncolibries/static/js/main.6e184703.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e31c52d0.css",
+    "static/js/main.6e184703.js"
+  ]
+}
