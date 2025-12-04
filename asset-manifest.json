@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/gestioncolibries/static/css/main.e31c52d0.css",
-    "main.js": "/gestioncolibries/static/js/main.6e184703.js",
-    "index.html": "/gestioncolibries/index.html",
-    "main.e31c52d0.css.map": "/gestioncolibries/static/css/main.e31c52d0.css.map",
-    "main.6e184703.js.map": "/gestioncolibries/static/js/main.6e184703.js.map"
+    "main.css": "/static/css/main.e31c52d0.css",
+    "main.js": "/static/js/main.c48edc16.js",
+    "index.html": "/index.html",
+    "main.e31c52d0.css.map": "/static/css/main.e31c52d0.css.map",
+    "main.c48edc16.js.map": "/static/js/main.c48edc16.js.map"
   },
   "entrypoints": [
     "static/css/main.e31c52d0.css",
-    "static/js/main.6e184703.js"
+    "static/js/main.c48edc16.js"
   ]
 }
